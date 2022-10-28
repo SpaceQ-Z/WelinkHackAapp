@@ -1,0 +1,1 @@
+/Users/zhaoqiang/Documents/GitHub/Android/WelinkHackAapp/open_cv/build/intermediates/cxx/Debug/6z365t24/obj/arm64-v8a

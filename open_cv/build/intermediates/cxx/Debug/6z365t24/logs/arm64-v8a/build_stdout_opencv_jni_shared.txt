@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/zhaoqiang/Documents/GitHub/Android/WelinkHackAapp/open_cv/.cxx/Debug/6z365t24/arm64-v8a'
+ninja: no work to do.

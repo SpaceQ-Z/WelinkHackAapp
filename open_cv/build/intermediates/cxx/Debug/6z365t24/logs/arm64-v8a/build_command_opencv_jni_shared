@@ -1,0 +1,4 @@
+/Users/zhaoqiang/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/zhaoqiang/Documents/GitHub/Android/WelinkHackAapp/open_cv/.cxx/Debug/6z365t24/arm64-v8a \
+  opencv_jni_shared

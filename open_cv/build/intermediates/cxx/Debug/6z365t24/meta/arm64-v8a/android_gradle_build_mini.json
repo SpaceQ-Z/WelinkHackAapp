@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/zhaoqiang/Documents/GitHub/Android/WelinkHackAapp/open_cv/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/zhaoqiang/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/zhaoqiang/Documents/GitHub/Android/WelinkHackAapp/open_cv/.cxx/Debug/6z365t24/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/zhaoqiang/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/zhaoqiang/Documents/GitHub/Android/WelinkHackAapp/open_cv/.cxx/Debug/6z365t24/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "arm64-v8a",
+      "output": "/Users/zhaoqiang/Documents/GitHub/Android/WelinkHackAapp/open_cv/.cxx/Debug/6z365t24/arm64-v8a/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
